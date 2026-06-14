@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=833AB4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lewis+Machabe!;Full+Stack+Developer;Building+beautiful+web+%26+mobile+apps;JavaScript+%7C+TypeScript+%7C+Python+%7C+Ruby" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=833AB4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Lewis+Machabe!;Full+Stack+Developer;Building+beautiful+web+%26+mobile+apps;JavaScript+%7C+TypeScript+%7C+Python+%7C+Ruby" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## <img src="https://skillicons.dev/icons?i=github" width="28" /> Connect With Me
+## <img src="https://skillicons.dev/icons?i=linkedin" width="26" /> Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Lewis_Machabe)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lewis_machabe)
@@ -28,9 +28,9 @@
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=vscode" width="28" /> Tech Stack
+## <img src="https://skillicons.dev/icons?i=vscode" width="26" /> Tech Stack
 
-### <img src="https://skillicons.dev/icons?i=js" width="22" /> Languages
+### <img src="https://skillicons.dev/icons?i=js" width="20" /> Languages
 
 <div align="center">
 
@@ -38,21 +38,19 @@
 
 </div>
 
-### <img src="https://skillicons.dev/icons?i=react" width="22" /> Frameworks & Libraries
+### <img src="https://skillicons.dev/icons?i=react" width="20" /> Frameworks & Libraries
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,rails,jquery,vite" />
 
-</div>
-
-<div align="center">
+&nbsp;
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
-### <img src="https://skillicons.dev/icons?i=mysql" width="22" /> Databases & Cloud
+### <img src="https://skillicons.dev/icons?i=mysql" width="20" /> Databases & Cloud
 
 <div align="center">
 
@@ -60,7 +58,7 @@
 
 </div>
 
-### <img src="https://skillicons.dev/icons?i=figma" width="22" /> Design Tools
+### <img src="https://skillicons.dev/icons?i=figma" width="20" /> Design Tools
 
 <div align="center">
 
@@ -70,7 +68,7 @@
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=github" width="28" /> GitHub Stats
+## <img src="https://skillicons.dev/icons?i=github" width="26" /> GitHub Stats
 
 <div align="center">
 
@@ -88,7 +86,7 @@
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=git" width="28" /> Trophies
+## <img src="https://skillicons.dev/icons?i=git" width="26" /> GitHub Trophies
 
 <div align="center">
 
@@ -98,7 +96,7 @@
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=githubactions" width="28" /> Contribution Graph
+## <img src="https://skillicons.dev/icons?i=githubactions" width="26" /> Contribution Graph
 
 <div align="center">
 
@@ -108,7 +106,7 @@
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=git" width="28" /> Top Contributed Repos
+## <img src="https://skillicons.dev/icons?i=git" width="26" /> Top Contributed Repos
 
 <div align="center">
 
@@ -118,7 +116,34 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-Support_My_Work-00A550?style=flat-square&logo=mpesa&logoColor=white" height="28" />
+## <img src="https://img.shields.io/badge/-Achievements-833ab4?style=flat-square&logo=github&logoColor=white" height="26" />
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/12492sachet?label=Followers&style=for-the-badge&logo=github&color=833ab4&logoColor=white)
+![GitHub User's stars](https://img.shields.io/github/stars/12492sachet?label=Total%20Stars&style=for-the-badge&logo=github&color=fd1d1d&logoColor=white)
+
+<br/>
+
+| <img src="https://skillicons.dev/icons?i=js" width="20"/> Projects Built | <img src="https://skillicons.dev/icons?i=github" width="20"/> Open Source | <img src="https://skillicons.dev/icons?i=react" width="20"/> Full Stack Apps | <img src="https://skillicons.dev/icons?i=gcp" width="20"/> Cloud Deployed |
+|:---:|:---:|:---:|:---:|
+| ![Projects](https://img.shields.io/badge/20+-Projects-833ab4?style=for-the-badge&logoColor=white) | ![Open Source](https://img.shields.io/badge/Active-Contributor-fd1d1d?style=for-the-badge&logoColor=white) | ![Full Stack](https://img.shields.io/badge/Web%20%26%20Mobile-Apps-fcb045?style=for-the-badge&logoColor=black) | ![Cloud](https://img.shields.io/badge/GCP%20%26%20Azure-Deployed-0078D7?style=for-the-badge&logoColor=white) |
+
+<br/>
+
+**Certified & Always Learning**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure_DevOps-Learning-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby_on_Rails-Proficient-CC342D?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/-Support_My_Work-00A550?style=flat-square&logo=mpesa&logoColor=white" height="26" />
 
 <div align="center">
 
@@ -140,7 +165,7 @@ If you find my work helpful, consider supporting me via any of the options below
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=12492sachet&label=Profile%20Views&icon=5&color=6&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=12492sachet&label=Profile+Views&color=833ab4&style=for-the-badge)](https://github.com/12492sachet)
 
 <br/>
 
