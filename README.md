@@ -4,7 +4,7 @@
 
 </div>
 
-## 👋 Hi there! I'm Lewis Machabe, a Front-End Web Developer.
+## 👋 Hi there! I'm Lewis Machabe, a Fullstuck Developer.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Lewis_Machabe)
